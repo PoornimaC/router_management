@@ -26,5 +26,7 @@ postgresql
 * Open the console(rails c) in another terminal
 * run
   * RouterBenchMark.bench_mark
+  * RouterBenchMark.memory_profiler
+  * RouterBenchMark.allocation_tracer
 
 
