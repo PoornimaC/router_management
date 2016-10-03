@@ -17,7 +17,7 @@ postgresql
 * git clone git@github.com:PoornimaC/router_management.git
 * cd router_management
 * bundle install
-* rake db:setup
+* bundle exec rake db:setup
 
 ## How to Start Application
 * rails s
